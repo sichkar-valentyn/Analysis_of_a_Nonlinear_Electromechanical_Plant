@@ -1,4 +1,15 @@
-%Analysis of Nonlinear Electromechanical Plant Using Simulink Model 
+
+% File: Analysis_of_a_Nonlinear_Electromechanical_Plant.m
+% Description: Analysis of Nonlinear Electromechanical Plant Using Simulink Model
+% Environment: Matlab
+%
+% MIT License
+% Copyright (c) 2017 Valentyn N Sichkar
+% github.com/sichkar-valentyn
+%
+% Reference to:
+% [1] Valentyn N Sichkar. Analysis of a Nonlinear Electromechanical Plant in Matlab Using Simulink Model // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Analysis_of_a_Nonlinear_Electromechanical_Plant (date of access: XX.XX.XXXX)
+
 close all;
  
 %% Model Properties
