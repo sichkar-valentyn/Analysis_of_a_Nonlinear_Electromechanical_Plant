@@ -7,7 +7,7 @@ Analysis of a Nonlinear Electromechanical Plant in Matlab
 ## Description
 Each parameter M_L, dU, Kvf, and Mdf was adjusted separately, and, by doing this, the effect of each parameter on the system can be shown.
 
-## The Matrices for method in Five
+## Non Linear Plant
 ![Results](images/NonLinearPlant.png)
 
 ## MIT License
