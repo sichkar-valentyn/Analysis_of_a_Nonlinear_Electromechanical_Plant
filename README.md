@@ -1,6 +1,9 @@
 # Analysis of a Nonlinear Electromechanical Plant
 Analysis of a Nonlinear Electromechanical Plant in Matlab
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Analysis of a Nonlinear Electromechanical Plant in Matlab Using Simulink Model // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Analysis_of_a_Nonlinear_Electromechanical_Plant (date of access: XX.XX.XXXX)
 
